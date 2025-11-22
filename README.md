@@ -1,7 +1,10 @@
 ## Hi, I'm Janul Walpalage 👋
 
 <p align="center">
-  <b>AI/ML & Data Engineer · Data Science Undergraduate · LLMs, Agents & Data Pipelines</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F97316&center=true&vCenter=true&width=1000&lines=AI%2FML+%26+Data+Engineer+%7C+Data+Science+Undergraduate+%7C+LLMs%2C+Agents+%26+Data+Pipelines"
+    alt="AI/ML & Data Engineer | Data Science Undergraduate | LLMs, Agents & Data Pipelines"
+  />
 </p>
 
 <p align="center">
