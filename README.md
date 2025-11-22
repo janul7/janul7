@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F97316&center=true&vCenter=true&width=1000&lines=AI%2FML+%26+Data+Engineer+%7C+Data+Science+Undergraduate+%7C+LLMs%2C+Agents+%26+Data+Pipelines"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F97316&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Data+Scientist+%7C+LLMs%2C+Agents+%26+Data+Pipelines"
     alt="AI Engineer | Data Scientist | LLMs, Agents & Data Pipelines"
   />
 </p>
