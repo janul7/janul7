@@ -27,7 +27,7 @@
 - 🎓 Final-year B.Sc (Hons) in IT, Specializing in Data Science @ SLIIT  
 - 🔍 I love turning messy data into reliable ML/AI systems: LLM agents, RAG pipelines, and production-grade data flows  
 - 🧠 Strong analytical mindset, quick learner, and team player who enjoys owning end-to-end solutions  
-- 🌍 Based in Sri Lanka, open to remote-first opportunities
+
 
 ---
 
