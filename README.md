@@ -23,7 +23,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Former Intern Data Engineer @ Hutchison Telecommunications Lanka (Colombo, Sri Lanka)  
+- 💼 Former Intern Data Scientists @ Hutchison Telecommunications Lanka (Colombo, Sri Lanka)  
 - 🎓 Final-year B.Sc (Hons) in IT, Specializing in Data Science @ SLIIT  
 - 🔍 I love turning messy data into reliable ML/AI systems: LLM agents, RAG pipelines, and production-grade data flows  
 - 🧠 Strong analytical mindset, quick learner, and team player who enjoys owning end-to-end solutions  
