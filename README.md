@@ -150,30 +150,6 @@ _Sri Lanka Institute of Information Technology (SLIIT) · May 2023 – Present_
 
 ---
 
-### 📊 GitHub Stats
-
-> These cards are generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  
-> Make sure your username is correct (`janul7`).
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=janul7&show_icons=true&theme=transparent"
-      alt="Janul's GitHub stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=janul7&layout=compact&theme=transparent"
-      alt="Top languages"
-    />
-  </a>
-</p>
-
----
 
 ### ⚽ Beyond Tech
 
