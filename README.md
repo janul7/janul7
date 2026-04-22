@@ -117,7 +117,7 @@ _Stack: MS SQL Server, SSIS, Power BI, Data Warehousing_
 
 ### 💼 Experience
 
-**Intern Data Engineer — Hutchison Telecommunications Lanka (Pvt) Ltd**  
+**Intern Data Scientists — Hutchison Telecommunications Lanka (Pvt) Ltd**  
 _Nov 2024 – Oct 2025 · Colombo, Sri Lanka_
 
 - Completed a full-year internship focusing on data engineering and analytics in the telecom domain  
